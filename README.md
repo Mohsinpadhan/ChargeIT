@@ -8,4 +8,5 @@
 ![image alt](https://github.com/Mohsinpadhan/ChargeIT/blob/ea093c85159f7d0d7d178034b7f42cedcb672faa/ui7.jpg)
 ![image alt](https://github.com/Mohsinpadhan/ChargeIT/blob/fd1f559bb22e50412f78bb08546bf2d65a54cd64/ui8.jpg)
 ![image alt](https://github.com/Mohsinpadhan/ChargeIT/blob/3906577f0a7699df379a8b6e9adae9aa24e31eaa/ui9.jpg)
+![image alt](https://github.com/Mohsinpadhan/ChargeIT/blob/c5cb88672beb8cca40acb91baef7146ac4d19252/ui10.jpg)
 
